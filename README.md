@@ -30,26 +30,15 @@ lib/
 ├── controllers/ # Business logic
 ├── services/    # API and Firebase services
 └── utils/       # Helper functions and constants
-```
 ## App Screenshots
 
-### Login Screen
-![Login](screenshots/login.png)
-
-### Register Screen
-![Register](screenshots/register.png)
-
-### Campus Map
-![Map](screenshots/map.png)
-
-### Calendar
-![Calendar](screenshots/calendar.png)
-
-### Settings (Light)
-![Settings Light](screenshots/settings_light.png)
-
-### Settings (Dark)
-![Settings Dark](screenshots/settings_dark.png)
-
+<p align="center">
+  <img src="screenshots/login.png" alt="Login" width="250"/>
+  <img src="screenshots/register.png" alt="Register" width="250"/>
+  <img src="screenshots/map.png" alt="Map" width="250"/>
+  <img src="screenshots/calendar.png" alt="Calendar" width="250"/>
+  <img src="screenshots/settings_light.png" alt="Settings Light" width="250"/>
+  <img src="screenshots/settings_dark.png" alt="Settings Dark" width="250"/>
+</p>
 ## Contributing
 Feel free to submit issues and enhancement requests!
