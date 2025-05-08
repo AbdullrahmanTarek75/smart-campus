@@ -30,6 +30,8 @@ lib/
 ├── controllers/ # Business logic
 ├── services/    # API and Firebase services
 └── utils/       # Helper functions and constants
+```
+
 ## App Screenshots
 
 <p align="center">
@@ -40,5 +42,6 @@ lib/
   <img src="screenshots/settings_light.png" alt="Settings Light" width="250"/>
   <img src="screenshots/settings_dark.png" alt="Settings Dark" width="250"/>
 </p>
+
 ## Contributing
 Feel free to submit issues and enhancement requests!
