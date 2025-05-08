@@ -31,6 +31,25 @@ lib/
 ├── services/    # API and Firebase services
 └── utils/       # Helper functions and constants
 ```
+## App Screenshots
+
+### Login Screen
+![Login](screenshots/login.png)
+
+### Register Screen
+![Register](screenshots/register.png)
+
+### Campus Map
+![Map](screenshots/map.png)
+
+### Calendar
+![Calendar](screenshots/calendar.png)
+
+### Settings (Light)
+![Settings Light](screenshots/settings_light.png)
+
+### Settings (Dark)
+![Settings Dark](screenshots/settings_dark.png)
 
 ## Contributing
 Feel free to submit issues and enhancement requests!
